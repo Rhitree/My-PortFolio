@@ -1,6 +1,3 @@
-h1 {
-    font-weight: bolder;
-    font-family:'Courier New', Courier, monospace;
-    color: aqua;
-    font-style: italic;
+body {
+    font-family: nunito;
 }
