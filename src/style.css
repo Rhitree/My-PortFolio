@@ -110,7 +110,6 @@ p {
 
 img {
     border-radius: 8px;
-    max-width: 300px;
 }
 
 @media (max-width: 900px) {
